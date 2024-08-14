@@ -1,4 +1,4 @@
-# PLUWZ - AOI.JS v - Example Project
+# PLUWZ - AOI.JS v6.8.5 - Example Project
 
 **Bu Proje aoi.js kullanıcılarının daha kolay ve dinamik bir başlangıç yapabilmesi için tasarlanmıştır.**
 
