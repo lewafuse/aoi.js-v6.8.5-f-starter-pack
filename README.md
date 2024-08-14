@@ -5,7 +5,7 @@
 ### [Discord Sunucumuz](https://discord.gg/) | [Youtube Kanalımız](https://youtube.com/@pluwz) | [Instagram Sayfamız](https://www.instagram.com/lewafuse0)
 
 ### **Başlamadan önce**
-`.env` dosyasına gelin ve **TOKEN** adında bir **KEY** açın, değerine **bot_tokeniniz** girin.
+`.env` ye gelin ve **TOKEN** adında bir **KEY** açın, değerine **bot_tokeniniz** girin.
 
 ### Modüller
 ```
