@@ -2,7 +2,7 @@
 
 **Bu Proje aoi.js kullanıcılarının daha kolay ve dinamik bir başlangıç yapabilmesi için tasarlanmıştır.**
 
-### [Discord Sunucumuz](https://discord.gg/) | [Youtube Kanalımız](https://youtube.com/@pluwz) | [Instagram Sayfamız](https://www.instagram.com/lewafuse0)
+### [Discord Sunucumuz](https://discord.com/invite/Sg9ktf3vHK) | [Youtube Kanalımız](https://youtube.com/@PLUWZ) | [Instagram Sayfamız](https://www.instagram.com/lewafuse0)
 
 ### **Başlamadan önce**
 `.env` ye gelin ve **TOKEN** adında bir **KEY** açın, değerine **bot_tokeniniz** girin.
